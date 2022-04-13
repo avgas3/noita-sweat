@@ -4,7 +4,7 @@ Noita sweat is a VR-only mod for Noita that adds "physical" controller bindnigs 
 
 ## How it works
 
-https://imgur.com/23965da9-50bc-41cd-b9f9-493f7d50246e
+https://i.imgur.com/9Kq9762.png
 
 Noita Sweat works by creating a virtual "controller" for noita. The directional controls and aim are bound to a "virtual controller."
 
